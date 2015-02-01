@@ -1,4 +1,4 @@
-package au.gov.bom.aifs.xg2;
+package au.gov.bom.aifs.xg.reviewer;
 
 
 public class Testclass {
